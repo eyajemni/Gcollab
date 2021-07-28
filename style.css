@@ -10,6 +10,8 @@ body{
     height: 6064px;
     background: #F0F2F7 0% 0% no-repeat padding-box;
     opacity: 1;
+    overflow: scroll;
+    overflow: hidden;
 }
 .content1{
     margin-top: 18px;
